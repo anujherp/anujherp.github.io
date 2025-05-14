@@ -7,10 +7,24 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
   },
   {
+    "objectID": "blog/2024-05-14-my-first-post.html",
+    "href": "blog/2024-05-14-my-first-post.html",
+    "title": "My First Blog Post",
+    "section": "",
+    "text": "This is my first blog post using Quarto! 🐸"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blog",
+    "section": "",
+    "text": "This is a lizard\n\n\nWelcome to my blog! Posts are listed below:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\n\n\n\n\n\n\n\n\nMay 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nabout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nindex\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
