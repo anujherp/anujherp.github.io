@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs  # <-- This is needed for GitHub Pages
 
 website:
   title: "anujherp.github.io"
@@ -18,4 +19,3 @@ format:
     toc: true
 
 editor: visual
-
