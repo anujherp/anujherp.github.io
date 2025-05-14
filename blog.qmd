@@ -1,0 +1,9 @@
+---
+title: "Blog"
+listing:
+  type: default
+  contents: blog
+  image: ![This is a lizard](images/Egernia-min.jpg)
+---
+
+Welcome to my blog! Posts are listed below:
