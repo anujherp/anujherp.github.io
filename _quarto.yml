@@ -5,10 +5,12 @@ project:
 website:
   title: "anujherp.github.io"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: blog.qmd
+        text: Blog
 
 format:
   html:
