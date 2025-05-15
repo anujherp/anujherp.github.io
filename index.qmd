@@ -1,11 +1,29 @@
 ---
-title: "anujherp.github.io"
+title: "Anuj Shinde"
+subtitle: "PhD student at the Australian National University"
+image: assets/img/skyline-philly-dual.png
+
+about:
+  template: solana
+  image-width: 30em
+  id: hero-heading
+  links:
+    - text: <img src="/bootstrap-icons-1.13.1/bluesky.svg" alt="Bluesky" width="30em" height="30em">
+      aria-label: "Google Scholar"
+      href: https://scholar.google.com/citations?user=hCRwOIgAAAAJ&hl=en
+page-layout: full
+
+execute: 
+  freeze: "auto"
+  echo: false
+  warning: false
+
+header-includes: >
+  <link rel="stylesheet" href="assets/index.css">
+resources:
+  - assets/index.css
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+*Curriculum vitae*\
+**Anuj Shinde**\
+Phone: +91 9881493996 \| Nationality – Indian \| DOB – 24.04.2000 \| Email: [anujherp\@gmail.com](mailto:anujherp@gmail.com) <i class="bi bi-alarm"></i>
