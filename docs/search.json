@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Anuj Shinde",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Curriculum vitae\nAnuj Shinde\nPhone: +91 9881493996 | Nationality – Indian | DOB – 24.04.2000 | Email: anujherp@gmail.com"
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
     "objectID": "blog/2024-05-14-my-first-post.html",
@@ -14,17 +14,17 @@
     "text": "This is my first blog post using Quarto! 🐸"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
-  },
-  {
     "objectID": "blog.html",
     "href": "blog.html",
     "title": "Blog",
     "section": "",
-    "text": "This is a lizard\n\n\nWelcome to my blog! Posts are listed below:\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Blog Post\n\n\n\n\n\n\n\n\n\n\n\nMay 14, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nabout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nindex\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This is a lizard\n\n\nWelcome to my blog! Posts are listed below:\n\n\n\n\n\n\n\n\n  \n\n\n\n\nMy First Blog Post\n\n\n\n\n\n\n\n\n\n\n\n\nMay 14, 2024\n\n\n\n\n\n\n  \n\n\n\n\nabout\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nindex\n\n\n\n\n\n\n\n\n\n\n \n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Anuj Shinde",
+    "section": "",
+    "text": "Curriculum vitae\nAnuj Shinde\nPhone: +91 9881493996 | Nationality – Indian | DOB – 24.04.2000 | Email: anujherp@gmail.com"
   }
 ]
